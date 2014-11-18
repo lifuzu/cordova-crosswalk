@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = https://github.com/krisrak/html5-kitchensink-cordova-xdk-af.git
